@@ -1,0 +1,13 @@
+body{
+    background-color: beige;
+    padding: 50px 50px;
+}
+
+p{
+    color:green;
+    font-size: larger;
+}
+
+strong,em{
+    font-size: large;
+}
